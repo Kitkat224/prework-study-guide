@@ -10,7 +10,7 @@ This is a prework study guide for bootcamp students. It teaches students about H
 
 ## Installation
 
-N/A
+
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
