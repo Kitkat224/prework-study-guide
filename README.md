@@ -19,7 +19,7 @@ N/A
 
 ## Usage
 
-To use this Prework Study Guide, you can look at the notes in each section. You can see a list of the topics in the study guide. It's better to study it chronologically as you don't want to miss any steps. You can go back and look at the previous pages if you get stuck. 
+You can see a list of the topics in the study guide. It's better to study it chronologically as you don't want to miss any steps. You can go back and look at the previous pages if you get stuck. 
 
 
 
